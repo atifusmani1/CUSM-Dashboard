@@ -1,3 +1,2 @@
 # CUSM-Dashboard
-C:/Users/16164/Documents/cusm/dashboard-screen-grab.png
-
+![Dashboard Screenshot](https://github.com/username/CUSM-Dashboard/blob/main/images/dashboard-screen-grab.png?raw=true)
